@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4dd7749e.chunk.css",
+    "main.js": "/static/js/main.a9a2b493.chunk.js",
+    "main.js.map": "/static/js/main.a9a2b493.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.25dcb785.js",
+    "runtime-main.js.map": "/static/js/runtime-main.25dcb785.js.map",
+    "static/js/2.ed5ee731.chunk.js": "/static/js/2.ed5ee731.chunk.js",
+    "static/js/2.ed5ee731.chunk.js.map": "/static/js/2.ed5ee731.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5ad1f794a30dd89f6481dc033a1fadf5.js": "/precache-manifest.5ad1f794a30dd89f6481dc033a1fadf5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4dd7749e.chunk.css.map": "/static/css/main.4dd7749e.chunk.css.map",
+    "static/js/2.ed5ee731.chunk.js.LICENSE.txt": "/static/js/2.ed5ee731.chunk.js.LICENSE.txt",
+    "static/media/fontawesome-all.min.css": "/static/media/fa-solid-900.84f351b3.woff2",
+    "static/media/img1.png": "/static/media/img1.e15e3742.png",
+    "static/media/img2.png": "/static/media/img2.158afd4a.png",
+    "static/media/img3.png": "/static/media/img3.fe2ea6a8.png",
+    "static/media/img4.png": "/static/media/img4.7f5a22a4.png",
+    "static/media/img5.png": "/static/media/img5.1fd576a7.png",
+    "static/media/img6.png": "/static/media/img6.3082be19.png",
+    "static/media/logo.svg": "/static/media/logo.f02a2527.svg",
+    "static/media/post1.png": "/static/media/post1.7ae1b224.png",
+    "static/media/post2.png": "/static/media/post2.eac2ff00.png",
+    "static/media/post3.png": "/static/media/post3.ba4b90c6.png",
+    "static/media/post4.png": "/static/media/post4.80c0fac3.png",
+    "static/media/project1-img1.png": "/static/media/project1-img1.65517d9d.png",
+    "static/media/project1-img2.png": "/static/media/project1-img2.376d88fe.png",
+    "static/media/project1-img3.png": "/static/media/project1-img3.aff7886a.png",
+    "static/media/team1.png": "/static/media/team1.cfcb19b4.png",
+    "static/media/team2.png": "/static/media/team2.d2074cf6.png",
+    "static/media/team3.png": "/static/media/team3.6bd718ff.png",
+    "static/media/team4.png": "/static/media/team4.e075b66d.png",
+    "static/media/team5.png": "/static/media/team5.f9223cf0.png",
+    "static/media/team6.png": "/static/media/team6.fff932da.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25dcb785.js",
+    "static/js/2.ed5ee731.chunk.js",
+    "static/css/main.4dd7749e.chunk.css",
+    "static/js/main.a9a2b493.chunk.js"
+  ]
+}
